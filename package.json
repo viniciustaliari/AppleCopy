@@ -1,0 +1,25 @@
+{
+  "name": "applecopy",
+  "version": "1.0.0",
+  "description": "Creating a Apple webpage copy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciustaliari/AppleCopy.git"
+  },
+  "keywords": [
+    "Apple",
+    "frontend",
+    "javascript",
+    "clon"
+  ],
+  "author": "Marcos Vinicius Freire Taliari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciustaliari/AppleCopy/issues"
+  },
+  "homepage": "https://github.com/viniciustaliari/AppleCopy#readme"
+}
